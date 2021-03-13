@@ -4,7 +4,7 @@ It Can be used for downloading Classroom Lectures in Sorted Order (DateWise)
 
 Features -
 
-1.Title, Download Status and Video link will be stored in Excel Sheet (latest video will be Shown in the top of the Sheet).
+1.Title, Download Status and Video link will be stored in Excel Sheet (Latest video will be Shown in the top of the Sheet).
 
 2.To avoid disturbance it mutes the sound while downloading the video.
 
