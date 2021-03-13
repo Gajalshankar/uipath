@@ -10,5 +10,5 @@ Features -
 
 3.It also closes the browser tab which are not needed for the operation.
 
-![Screenshot](Structure.png)
+![Screenshot](_updated.png)
 
